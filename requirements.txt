@@ -1,0 +1,11 @@
+fastapi==0.97.0
+pdfminer.six==20221105
+SQLAlchemy===2.0.16
+async-exit-stack==1.0.1
+async-generator==1.10
+psycopg2-binary==2.9.3
+uvicorn==0.22.0
+python-multipart==0.0.6
+colorlog==6.7.0
+python-dotenv==1.0.0
+elasticsearch==8.9.0
